@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohdmohsin3k@gmail.com**
 
-- 📄 Know about my experiences [I have experience in wordpress and frontend development languages](I have experience in wordpress and frontend development languages)
+- 📄 Know about my experiences(I have experience in wordpress and frontend development languages)
 
 - ⚡ Fun fact **I think I'm funny**
 
